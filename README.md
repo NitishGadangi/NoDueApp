@@ -6,7 +6,7 @@ It consists of Qr Scanner built in which is helpful in recognizing the Memo numb
 So, anyone who is unable to check their examination result can directly know their result prior to the clearing dues.
 
 
-<h4>Steps to check your examination result:</h4>
+<h3>Steps to check your examination result:</h3>
 1.Open the app.<br>
 2.Read the instructions carefully and click proceed.<br>
 3.Read about the prerequisites required and click scan.<br>
